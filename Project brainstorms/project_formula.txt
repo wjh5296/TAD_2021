@@ -4,10 +4,17 @@ Formula for text-as-data research
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
 
+To what extent do sports announcers rely on cliches in sports and entertainment?
+
 
 What source of text data will you use?
 
+I really don't know, I'm sure there are some transcripts of things they say. 
+
 What are two possible answers to the question?
+
+Either announcers frequently use the same words and phrases or they frequently used a diverse and varied vocabulary.
 
 How will the results of the quantitative text analysis demonstrate which of those answers is correct?
 
+The results may show the frequency of certain words and phrases by the amount of time used . If the same ones are repeated constantly it could prove they rely on cliches.
